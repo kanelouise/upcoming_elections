@@ -5,7 +5,7 @@ This is a Flask application that accepts a user address and returns information 
 ## Installation
 
 ### Requirements
-This app requires a virtual environment (details to install below) as well as a requirements.txt file with all needed libraries.
+This app requires Python 3.6, at least, a virtual environment (details to install below) as well as a requirements.txt file with all needed libraries.
 
 ### Dependencies
 
