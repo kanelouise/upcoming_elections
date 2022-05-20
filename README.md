@@ -1,4 +1,4 @@
-# Democracy Works Practical: Upcoming Elections
+# Upcoming Elections
 
 This is a Flask application that accepts a user address and returns information about upcoming elections.
 
